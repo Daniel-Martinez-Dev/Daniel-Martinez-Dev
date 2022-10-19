@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<img height="180em" src="https://camo.githubusercontent.com/e5e1559b3b4a2dea6c56045e5a076bff6010e3309ab2b6ae60a9c258f038f4a4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d42726179616e546f7272657332266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d676f7468616d" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=danmaelk8ng&amp;layout=compact&amp;langs_count=7&amp;theme=gotham" style="max-width: 100%;">
+
+
 <!---
 danmaelk8ng/danmaelk8ng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
