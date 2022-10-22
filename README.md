@@ -6,8 +6,8 @@
 
 <div align="left">
 <div>
-    <a href="https://github.com/danmaelk8ng">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danmaelk8ng&layout=compact&langs_count=7&theme=gotham"/>
+    <a href="https://github.com/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&langs_count=7&theme=gotham"/>
 </div> 
 </div>
 
